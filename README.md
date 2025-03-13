@@ -1,8 +1,3 @@
-![Awesome](https://img.shields.io/badge/awesome-purple?style=flat&logo=github)
-![If Useful](https://img.shields.io/badge/If%20Useful-yellow?style=flat&logo=star)
-![Follow @ammanrizwan_47](https://img.shields.io/github/followers/ammanrizwan_47?label=Follow&style=social)
-
-
 # Hi there, I'm Amman! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
@@ -27,6 +22,21 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
     
 - 📊 **Data & AI**: Kaggle enthusiast, aiming for a bronze and silver medal in notebooks.
 - 🎮 **Hobbies**: Gaming, Iot Projects, and exploring new tech.
+
+<details>
+  <summary><b>Skills</b></summary>
+
+[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+
+[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+[![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+
+</details>
 
 # 📫 Get in Touch
 

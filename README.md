@@ -21,4 +21,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **X**: https://x.com/amman_rizwan47
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&layout=compact)

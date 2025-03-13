@@ -1,4 +1,7 @@
-![Your Badge](https://img.shields.io/badge/Text-Color?style=flat&logo=your-logo&logoColor=white)
+![Awesome](https://img.shields.io/badge/awesome-purple?style=flat&logo=github)
+![If Useful](https://img.shields.io/badge/If%20Useful-yellow?style=flat&logo=star)
+![Follow @ammanrizwan_47](https://img.shields.io/github/followers/ammanrizwan_47?label=Follow&style=social)
+
 
 # Hi there, I'm Amman! 👋
 

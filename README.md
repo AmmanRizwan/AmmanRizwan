@@ -30,8 +30,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 🐦 **X**: https://x.com/amman_rizwan47
 
 ## 📊 Most Used Language Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&langs_count=8)
-
-## 📊 Graph Stats  
-![Amman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&langs_count=8) 
 

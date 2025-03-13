@@ -24,9 +24,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 # 📫 Get in Touch
 
-- **Email**: ammanrizwan00007@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/amman-rizwan
-- **X**: https://x.com/amman_rizwan47
+- 📧 **Email**: ammanrizwan00007@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/amman-rizwan
+- 🐦 **X**: https://x.com/amman_rizwan47
 
+Let's build something amazing together! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&langs_count=8)

@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 🔍 **Database**: MongoDB, PostgreSQL, MySQL
 
 - 🤖 **Projects**:
-  - Full-Stack Todo App performing (CRUD) Operation 🔹 [TODO App](https://todo-app-two-delta-77.vercel.app/)  
-  - Full-Stack User Authentication and Post Management app.
-  - Netflix Landpage Clone. (Frontend)
+  - Full-Stack Todo App performing (CRUD) Operation [TODO App](https://todo-app-two-delta-77.vercel.app/)  
+  - Full-Stack User Authentication and Post Management app. [Code Question App](https://question-client-gamma.vercel.app/)
+  - Netflix Landpage Clone. (Frontend) [Netflix Clone](https://stream-app-nu.vercel.app/)  
+  - Epic Clone (Frontend)  [Epic Clone](https://epic-clone-zeta.vercel.app/)
   - Image Classification Notebook
     
 - 📊 **Data & AI**: Kaggle enthusiast, aiming for a bronze and silver medal in notebooks.

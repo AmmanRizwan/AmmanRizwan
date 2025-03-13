@@ -1,4 +1,4 @@
-## Hi there, I'm Amman! 👋
+# Hi there, I'm Amman! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
 

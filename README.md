@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 🔍 **Database**: MongoDB, PostgreSQL, MySQL
 
 - 🤖 **Projects**:
+  - Full-Stack Social Media App [ZOB](https://zen-organized-blog.vercel.app)
   - Full-Stack Todo App performing (CRUD) Operation [TODO App](https://todo-app-two-delta-77.vercel.app/)  
   - Full-Stack User Authentication and Post Management app. [Code Question App](https://question-client-gamma.vercel.app/)
   - Netflix Landpage Clone. (Frontend) [Netflix Clone](https://stream-app-nu.vercel.app/)  

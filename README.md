@@ -32,7 +32,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/amman-rizwan
 - 🐦 **X**: https://x.com/amman_rizwan47
 
-## 📊 Most Used Language Stats  
+## 📊 Most Used Language Stats 
+<div style="display: flex; flex-direction: row;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&langs_count=10) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&layout=donut-vertical)](https://github.com/AmmanRizwan/github-readme-stats)
+</div>

@@ -1,4 +1,4 @@
-# Hi there, I'm Amman! 👋
+# Hi there, I'm Amman Rizwan! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
 
@@ -35,5 +35,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 🐦 **X**: https://x.com/amman_rizwan47
 
 ## 📊 Most Used Language Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&langs_count=10) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&layout=donut-vertical)](https://github.com/AmmanRizwan/github-readme-stats)
 

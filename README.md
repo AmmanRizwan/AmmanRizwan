@@ -1,6 +1,6 @@
 # Hi there, I'm Amman Rizwan! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,express,tailwind,prisma,postgres,postman,mysql,vite,mongodb,nextjs)](https://skillicons.dev)
 

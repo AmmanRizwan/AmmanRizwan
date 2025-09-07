@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 # 🚀 About Me
 
 - 💻 **Tech Stack**: TypeScript, React.js NextJS, Redux Toolkit, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, MySQL, Prisma, RESTfull APIs, JSON Web Token (JWT), Tanstack Query, Bash
-- 🌐 **Frontend**: React.js, Next.js
+- 🌐 **Frontend**: React.js, Next.js, React Hook Form, Zod, Shadcn, SupaBase
 - 🛠 **Backend**: Python, C, Node.js, Express.js, TypeScript, JavaScript, Java, Bash, PHP, C#
 - ☁ **Cloud & Deployment**: Vercel, Render, Cloudinary.
 - 🔍 **Database**: MongoDB, PostgreSQL, MySQL

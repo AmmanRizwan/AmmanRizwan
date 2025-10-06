@@ -15,8 +15,4 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 - ☁ **Cloud & Deployment**: Vercel, Render, Cloudinary.
 - 🔍 **Database**: MongoDB, PostgreSQL, MySQL
 
-## 📊 Most Used Language Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanRizwan&layout=donut-vertical)
-
 

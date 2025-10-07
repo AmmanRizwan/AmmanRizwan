@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in full-stack web development, backend engineering, and data science. I enjoy building innovative applications and continuously expanding my knowledge in cutting-edge technologies.
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,express,prisma,postgres,linux,mysql,mongodb,nextjs,docker,php)](https://skillicons.dev)
 
 ![GIF Description](https://gifdb.com/images/high/azure-lane-cute-anime-typing-fast-bctubdjt5d0eikl8.webp)

@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 ![GithubAction](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 
-### Others
+### Others Platforms and Frameworks
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) 
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
